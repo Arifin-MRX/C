@@ -1,2 +1,2 @@
-# bahasa-c
+# C
 pengenalan bahasa C++
